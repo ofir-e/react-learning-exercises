@@ -5,7 +5,7 @@ react must have interactive hands on learning exercises
 To start practicing use degit cli with this template.
 
 ```sh
-npx degit git-repo-of-this-template-here my-exercise
+npx degit ofir-e/react-learning-exercises my-exercise
 cd my-exercise
 npm i
 npm start
