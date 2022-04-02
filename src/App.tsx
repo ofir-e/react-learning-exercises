@@ -14,6 +14,7 @@ import Ex6 from './exercises/ex6/ex6';
 import Ex7 from './exercises/ex7/ex7';
 import Ex8 from './exercises/ex8/ex8';
 import Ex9 from './exercises/ex9/ex9';
+import Ex10 from './exercises/ex10/ex10';
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
     { number: 7, element: <Ex7 /> },
     { number: 8, element: <Ex8 /> },
     { number: 9, element: <Ex9 /> },
+    { number: 10, element: <Ex10 /> },
   ]
   return (
     <div className='App'>
